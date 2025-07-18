@@ -1,4 +1,4 @@
-# 🧠 DSAD – Data Structures. Algorithms and Design Repository
+# 🧠 DSAD – Data Structures. Algorithms and Design Repo
 
 My growing collection of data structures, algorithm problems and design problems written in **multiple programming languages** like Java, Python, C++, and more.
 
