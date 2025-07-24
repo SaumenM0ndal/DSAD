@@ -44,10 +44,10 @@ We welcome contributions in **any language**! Here's how to participate:
 
 ## 💡 Example Contributions
 
-✅ Java solution to **Two Sum**:
+✅ Java solution to **Digital Root**:
 
 ```
-Java/ArrayProblems/TwoSum.java
+Java/ArrayProblems/DigitalRoot.java
 ```
 
 
